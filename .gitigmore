@@ -1,0 +1,21 @@
+# Binaries
+*.exe
+*.o
+main
+
+# IDE
+.idea/
+
+# Logs and temp files
+*.log
+tmp/
+
+# Vendor dependencies (if you're not using Go modules)
+vendor/
+
+# Go executables
+*.test
+
+# Go modules cache
+/go/pkg/mod/
+/go/bin/
