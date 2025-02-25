@@ -1,5 +1,5 @@
+// Package search code Linearsearch
 package search
-
 
 func LinearSearch(arr []int, x int) int {
 	i := 0

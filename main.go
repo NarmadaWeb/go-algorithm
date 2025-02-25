@@ -1,3 +1,4 @@
+// Package main code
 package main
 
 import (
@@ -6,7 +7,6 @@ import (
 	"github.com/RajaSunrise/go-algorithm/search"
 	"github.com/RajaSunrise/go-algorithm/short"
 )
-
 
 
 func main(){
@@ -20,7 +20,8 @@ func main(){
 	fmt.Println("Ini adalah interpolination search", search.InterPolinationSearch(arr, 12))
 
 	// test bubble short
-	//fmt.Println("Ini adalah Bubble Short", short.BubbleShort(arr))
+	fmt.Println("Ini adalah Bubble Short", short.BubbleShort(arr))
+	// test counting short
 	fmt.Println("Ini adalah counting Short", short.CountingShort(arr))
 
 }
