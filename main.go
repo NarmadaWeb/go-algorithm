@@ -1,3 +1,4 @@
+// Package main code
 package main
 
 import (
@@ -6,7 +7,6 @@ import (
 	"github.com/RajaSunrise/go-algorithm/search"
 	"github.com/RajaSunrise/go-algorithm/short"
 )
-
 
 
 func main(){
