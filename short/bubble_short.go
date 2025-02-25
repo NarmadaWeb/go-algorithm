@@ -1,3 +1,4 @@
+// Package search code binary search
 package short
 
 
