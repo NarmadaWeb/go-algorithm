@@ -20,7 +20,7 @@ func main(){
 	fmt.Println("Ini adalah interpolination search", search.InterPolinationSearch(arr, 12))
 
 	// test bubble short
-	//fmt.Println("Ini adalah Bubble Short", short.BubbleShort(arr))
+	fmt.Println("Ini adalah Bubble Short", short.BubbleShort(arr))
 	fmt.Println("Ini adalah counting Short", short.CountingShort(arr))
 
 }
