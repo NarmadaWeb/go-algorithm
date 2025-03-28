@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // Package main code
+=======
+// Package main code go-algoritm
+>>>>>>> eb21fb6 (add comment)
 package main
 
 import (
@@ -11,9 +15,13 @@ import (
 
 func main(){
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 	// array
 >>>>>>> 13a77bf (add comment)
+=======
+	// list array
+>>>>>>> eb21fb6 (add comment)
 	arr := []int{12, 23, 39, 12, 21, 12, 6, 76, 15}
 	
 	// test binary seacrh
@@ -29,7 +37,11 @@ func main(){
 	fmt.Println("Ini adalah counting Short", short.CountingShort(arr))
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 =======
 }
 >>>>>>> 13a77bf (add comment)
+=======
+}
+>>>>>>> eb21fb6 (add comment)
