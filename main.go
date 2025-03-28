@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 // Package main code
 =======
 // Package main code go-algoritm
@@ -7,6 +8,9 @@
 =======
 // Package main code
 >>>>>>> 6aceb12 (add comment)
+=======
+// Package main code
+>>>>>>> 6fc7bf2 (add coment main.go)
 package main
 
 import (
@@ -21,6 +25,7 @@ func main(){
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 	// array
 >>>>>>> 13a77bf (add comment)
@@ -30,6 +35,9 @@ func main(){
 =======
 	// array code
 >>>>>>> 6aceb12 (add comment)
+=======
+	// array
+>>>>>>> 6fc7bf2 (add coment main.go)
 	arr := []int{12, 23, 39, 12, 21, 12, 6, 76, 15}
 	
 	// test binary seacrh
@@ -47,6 +55,7 @@ func main(){
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 =======
 }
@@ -58,3 +67,6 @@ func main(){
 }
 
 >>>>>>> 6aceb12 (add comment)
+=======
+}
+>>>>>>> 6fc7bf2 (add coment main.go)
