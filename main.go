@@ -10,6 +10,10 @@ import (
 
 
 func main(){
+<<<<<<< HEAD
+=======
+	// array
+>>>>>>> 13a77bf (add comment)
 	arr := []int{12, 23, 39, 12, 21, 12, 6, 76, 15}
 	
 	// test binary seacrh
@@ -24,4 +28,8 @@ func main(){
 	// test counting short
 	fmt.Println("Ini adalah counting Short", short.CountingShort(arr))
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 13a77bf (add comment)
