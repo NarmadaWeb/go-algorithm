@@ -1,3 +1,32 @@
+# Binaries
+*.exe
+*.o
+main
+
+# IDE
+.idea/
+
+# Logs and temp files
+*.log
+tmp/
+
+# Vendor dependencies (if you're not using Go modules)
+vendor/
+
+# Go executables
+*.test
+
+# Go modules cache
+/go/pkg/mod/
+/go/bin/
+.aider*
+
+
+.aider.input.history
+
+.aider.tags.cache.v4/
+
+.aider.input.history.md
 # If you prefer the allow list template instead of the deny list, see community template:
 # https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
 #
@@ -23,3 +52,4 @@ go.work.sum
 
 # env file
 .env
+
